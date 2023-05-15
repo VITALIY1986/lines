@@ -38,6 +38,7 @@
     "redux": "^4.2.1",
     "sass": "^1.37.5",
     "string-strip-html": "^9.0.4",
+    "typeface-playfair-display": "^1.1.13",
     "uuid": "^8.3.2",
     "validator": "^13.6.0"
   },
@@ -48,6 +49,6 @@
     "postcss-import": "^14.0.2",
     "postcss-preset-env": "^6.7.0",
     "precss": "^4.0.0",
-    "tailwindcss": "^2.2.7"
+    "tailwindcss": "^2.2.19"
   }
 }

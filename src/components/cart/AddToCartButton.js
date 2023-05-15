@@ -11,7 +11,7 @@ import ADD_TO_CART from "../../mutations/add-to-cart";
 
 const AddToCart = (props) => {
 
-	const { isLoggedIn } = useAuth();
+	
 	
 
     const {product} = props;
